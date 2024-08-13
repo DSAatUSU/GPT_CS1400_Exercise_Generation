@@ -1,0 +1,12 @@
+.env
+venv/
+ComplaintData/
+generatedExercises/
+webTool/
+Exercises_Generated/KHAN_GEN/
+Private/
+Exercises_Generated/ANALYSIS/
+Exercises_Generated/.ipynb_checkpoints/
+SurveyResults/
+.ipynb_checkpoints/
+promptExperiments/
