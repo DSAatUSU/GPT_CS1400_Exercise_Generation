@@ -6,3 +6,17 @@ The following repository contains code for,
 4) Prompt drafts in ```./Exercises_Generated/Prompt_Draft_X.pdf```
 5) Course Catalog in ```./Exercises_Generated/Course_Catalog.md```
 6) Batches of Exercise selected for User Study in ```./Exercises_Generated/BATCHES/```
+
+
+####
+
+Citation:
+
+@inproceedings{khan2024human,
+  title={Human Evaluation of GPT for Scalable Python Programming Exercise Generation},
+  author={Khan, Muhammad Fawad Akbar and Ramsdell, Max and Nguyen, Ha and Karimi, Hamid},
+  booktitle={2024 IEEE 11th International Conference on Data Science and Advanced Analytics (DSAA)},
+  pages={1--10},
+  year={2024},
+  organization={IEEE}
+}
