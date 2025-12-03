@@ -11,7 +11,7 @@ The following repository contains code for,
 ####
 
 Citation:
-
+```
 @inproceedings{khan2024human,
   title={Human Evaluation of GPT for Scalable Python Programming Exercise Generation},
   author={Khan, Muhammad Fawad Akbar and Ramsdell, Max and Nguyen, Ha and Karimi, Hamid},
@@ -20,3 +20,4 @@ Citation:
   year={2024},
   organization={IEEE}
 }
+```
